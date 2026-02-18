@@ -1,0 +1,391 @@
+[
+  {
+    "parentName": "immich",
+    "parentOwner": "immich-app",
+    "childOwner": "zsroven",
+    "childName": "immich",
+    "forkTime": "2024-01-03T02:51:38Z",
+    "commitTimes": {
+      "2024-01": 260,
+      "2024-02": 294,
+      "2024-03": 21
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 8,
+    "stars": 0
+  },
+  {
+    "parentName": "device_tecno_BF7",
+    "parentOwner": "infinixs5lite",
+    "childOwner": "alumi4skop",
+    "childName": "device_tecno_BF7",
+    "forkTime": "2023-12-12T13:45:32Z",
+    "commitTimes": {
+      "2023-12": 7
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "Selecting-youtube-thumbnails-using-cnn---Tejas-Paul-Hanna",
+    "parentOwner": "tejasphirke",
+    "childOwner": "hannasong01",
+    "childName": "Selecting-youtube-thumbnails-using-cnn---Tejas-Paul-Hanna",
+    "forkTime": "2023-12-11T20:46:31Z",
+    "commitTimes": {
+      "2023-12": 16
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "ahoy",
+    "parentOwner": "lumapu",
+    "childOwner": "VArt67",
+    "childName": "ahoy",
+    "forkTime": "2023-12-10T16:54:49Z",
+    "commitTimes": {
+      "2023-12": 79,
+      "2024-01": 190,
+      "2024-02": 60,
+      "2024-03": 52,
+      "2024-04": 61,
+      "2024-05": 51,
+      "2024-06": 19,
+      "2024-07": 11,
+      "2024-08": 50,
+      "2024-09": 16,
+      "2024-10": 20,
+      "2025-03": 4,
+      "2025-08": 1
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 323,
+    "stars": 0
+  },
+  {
+    "parentName": "core-js-conditions-n-loops-tasks",
+    "parentOwner": "rolling-scopes-school",
+    "childOwner": "Fairuzajs",
+    "childName": "core-js-conditions-n-loops-tasks",
+    "forkTime": "2023-12-26T05:45:12Z",
+    "commitTimes": {
+      "2023-12": 6,
+      "2024-01": 5,
+      "2024-02": 4
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "lalmax",
+    "parentOwner": "q191201771",
+    "childOwner": "ScorpioRen",
+    "childName": "lalmax",
+    "forkTime": "2024-01-02T05:45:25Z",
+    "commitTimes": {
+      "2024-01": 1,
+      "2024-02": 11,
+      "2024-03": 18,
+      "2024-04": 43,
+      "2024-05": 39,
+      "2024-06": 4,
+      "2024-07": 10,
+      "2024-08": 2,
+      "2024-11": 2,
+      "2025-01": 2,
+      "2025-04": 2,
+      "2025-07": 2
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 106,
+    "stars": 0
+  },
+  {
+    "parentName": "Rocket.Chat.ReactNative",
+    "parentOwner": "RocketChat",
+    "childOwner": "atrub",
+    "childName": "Rocket.Chat.ReactNative",
+    "forkTime": "2023-12-25T05:33:15Z",
+    "commitTimes": {
+      "2023-12": 7,
+      "2024-01": 8
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "BasketballStarsUnblocked.github.io",
+    "parentOwner": "BasketballStarsUnblocked",
+    "childOwner": "2040retrobowl",
+    "childName": "BasketballStarsUnblocked.github.io",
+    "forkTime": "2024-01-20T19:53:42Z",
+    "commitTimes": {
+      "2024-01": 10
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "edu_db_labs-IM-21",
+    "parentOwner": "Dmutre",
+    "childOwner": "Kabadzh0b",
+    "childName": "edu_db_coursework-IM-21-ChubMaksym",
+    "forkTime": "2023-12-20T16:38:04Z",
+    "commitTimes": {
+      "2023-12": 6
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "gorilla",
+    "parentOwner": "ShishirPatil",
+    "childOwner": "mdwoicke",
+    "childName": "gorilla",
+    "forkTime": "2023-12-06T03:47:41Z",
+    "commitTimes": {
+      "2024-01": 3,
+      "2024-02": 12,
+      "2024-03": 25,
+      "2024-04": 36,
+      "2024-05": 13,
+      "2024-06": 7,
+      "2024-07": 30
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 86,
+    "stars": 0
+  },
+  {
+    "parentName": "l2beat",
+    "parentOwner": "l2beat",
+    "childOwner": "PhilipEriksson",
+    "childName": "l2beat",
+    "forkTime": "2024-01-09T11:50:59Z",
+    "commitTimes": {
+      "2024-01": 37
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "v47-tier2-team-10",
+    "parentOwner": "chingu-voyages",
+    "childOwner": "Cakinn1",
+    "childName": "v47-tier2-team-10",
+    "forkTime": "2024-01-11T04:51:00Z",
+    "commitTimes": {
+      "2024-01": 138,
+      "2024-02": 173,
+      "2024-03": 7
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "sprig",
+    "parentOwner": "hackclub",
+    "childOwner": "EgoistD",
+    "childName": "sprig",
+    "forkTime": "2024-01-04T05:33:11Z",
+    "commitTimes": {
+      "2024-01": 18,
+      "2024-11": 2
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 2,
+    "stars": 0
+  },
+  {
+    "parentName": "token-list",
+    "parentOwner": "jup-ag",
+    "childOwner": "josemvcerqueira",
+    "childName": "token-list",
+    "forkTime": "2023-12-26T19:33:43Z",
+    "commitTimes": {
+      "2023-12": 12,
+      "2024-01": 26
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "nd013-c6-control-starter",
+    "parentOwner": "udacity",
+    "childOwner": "dboemer",
+    "childName": "nd013-c6-control-starter",
+    "forkTime": "2023-12-29T17:41:23Z",
+    "commitTimes": {
+      "2023-12": 29
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "coreboot",
+    "parentOwner": "coreboot",
+    "childOwner": "strobo5",
+    "childName": "coreboot_socket939",
+    "forkTime": "2024-01-06T13:13:47Z",
+    "commitTimes": {
+      "2024-01": 12
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "alexandria",
+    "parentOwner": "keep-starknet-strange",
+    "childOwner": "Soptq",
+    "childName": "alexandria",
+    "forkTime": "2024-01-16T16:32:25Z",
+    "commitTimes": {
+      "2024-01": 16
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 0,
+    "stars": 0
+  },
+  {
+    "parentName": "otwarchive",
+    "parentOwner": "otwcode",
+    "childOwner": "smclairecarden",
+    "childName": "otwarchive",
+    "forkTime": "2023-12-30T16:57:06Z",
+    "commitTimes": {
+      "2024-01": 25,
+      "2024-02": 28,
+      "2024-03": 19,
+      "2024-04": 26
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 45,
+    "stars": 0
+  },
+  {
+    "parentName": "first-contributions",
+    "parentOwner": "firstcontributions",
+    "childOwner": "pavannaik321",
+    "childName": "first-contributions",
+    "forkTime": "2024-01-07T02:24:06Z",
+    "commitTimes": {
+      "2024-01": 1199,
+      "2024-02": 892,
+      "2024-03": 653
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 487,
+    "stars": 2
+  },
+  {
+    "parentName": "dlssg-to-fsr3",
+    "parentOwner": "Nukem9",
+    "childOwner": "suming9521",
+    "childName": "dlssg-to-fsr3",
+    "forkTime": "2024-01-09T14:12:15Z",
+    "commitTimes": {
+      "2024-01": 17,
+      "2024-02": 4,
+      "2024-05": 7,
+      "2024-06": 1,
+      "2024-07": 19,
+      "2025-02": 36,
+      "2025-03": 9
+    },
+    "issues": {
+      "issues_enabled": false,
+      "open_issues_count": 0,
+      "closed_issues_count": 0
+    },
+    "commitsPost2m": 72,
+    "stars": 0
+  }
+]

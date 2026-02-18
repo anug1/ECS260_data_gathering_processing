@@ -1,0 +1,2 @@
+// Forks from github_archive
+SELECT * FROM commits WHERE type = 'ForkEvent'

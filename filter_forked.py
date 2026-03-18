@@ -15,7 +15,7 @@ import time
 
 # --- GitHub API setup ---
 GITHUB_API_URL = "https://api.github.com/graphql"
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 
 HEADERS = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
 
